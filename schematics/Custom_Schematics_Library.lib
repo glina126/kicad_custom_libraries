@@ -144,14 +144,14 @@ ENDDEF
 # Resistor
 #
 DEF Resistor R 0 40 Y Y 1 F N
-F0 "R" -100 200 60 H V C CNN
-F1 "Resistor" 0 -200 60 H V C CNN
-F2 "" 0 0 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
+F0 "R" -100 100 60 H V C CNN
+F1 "Resistor" 0 -100 60 H V C CNN
+F2 "" 50 0 60 H V C CNN
+F3 "" 50 0 60 H V C CNN
 DRAW
-P 10 0 1 10  -150 0  -125 75  -100 0  -75 -75  -50 0  -25 75  25 -75  75 75  125 -75  150 0 N
-X ~ 1 -250 0 100 R 0 31 1 1 B
-X ~ 2 250 0 100 L 0 31 1 1 B
+P 9 0 1 0  -100 0  -85 35  -70 0  -55 -35  -25 35  10 -35  40 35  75 -35  90 0 N
+X ~ 1 -200 0 100 R 0 31 1 1 B
+X ~ 2 200 0 110 L 0 31 1 1 B
 ENDDRAW
 ENDDEF
 #
