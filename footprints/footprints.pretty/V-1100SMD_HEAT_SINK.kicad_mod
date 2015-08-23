@@ -1,0 +1,10 @@
+(module V-1100SMD_HEAT_SINK (layer F.Cu) (tedit 55D93648)
+  (fp_text reference V-1100SMD_HEAT_SINK (at 0 8.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value HS** (at -5.9 -7.4) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (pad "" smd rect (at -8.2 0) (size 2 12.7) (layers F.Cu F.Paste F.Mask))
+  (pad "" smd rect (at 8.7 0) (size 2 12.7) (layers F.Cu F.Paste F.Mask))
+)
