@@ -1,8 +1,8 @@
-(module TA48_5V_REG_TO263 (layer F.Cu) (tedit 55D9356E)
-  (fp_text reference TA48_5V_REG_TO263 (at 0 6.6) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+(module TA48_5V_REG_TO263 (layer F.Cu) (tedit 55DBAC48)
+  (fp_text reference TA48_5V_REG_TO263 (at 0 6.6) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (fp_text value REG** (at -4.2 -7.9) (layer F.SilkS)
+  (fp_text value REG** (at -4.2 -7.9) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (fp_line (start -3.1 -0.5) (end -3.1 0.5) (layer F.SilkS) (width 0.15))
