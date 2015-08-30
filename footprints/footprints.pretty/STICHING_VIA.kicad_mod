@@ -1,0 +1,10 @@
+(module STICHING_VIA (layer F.Cu) (tedit 55DE81A3)
+  (fp_text reference STICHING_VIA (at 0 3.81) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at -2.54 -3.81) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.6858 0.6858) (drill 0.3302) (layers *.Cu *.Mask F.SilkS)
+    (zone_connect 2))
+)
